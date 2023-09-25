@@ -1,0 +1,3 @@
+Q1. Write a C program to delete an element from the beginning of a Linked List
+Q2. Write a C program to delete an element from the last position of a linked list
+Q3. Write a C program to delete an element from the any particularly specified position of a linked list

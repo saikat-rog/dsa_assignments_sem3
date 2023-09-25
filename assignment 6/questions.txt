@@ -1,0 +1,2 @@
+Q1. Write a C program to add an element at the end of a linked list
+Q2. Write a C program to inseert element at any random pos of a single linked list

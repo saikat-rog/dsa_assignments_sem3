@@ -1,0 +1,16 @@
+1) Write a programme to print the sum of the diagonal element of the MxN Square Matrix.
+
+2) There are two arrays A and B. A content 25 elements whereas B contains 30 elements write a function to create an array C that contain only those elements that are common to A and B.
+
+3) Write a menu program for following string operation.
+    - Two strings are equal or not
+    - First string is smaller to second string
+    - First string is greater to second strings
+    - Extract left most n th character
+    - Extract right most n th character
+
+4) Write a program to print employee details using dynamic memory allocation (use structure and malloc)
+
+5) Tighter program to implement linear search
+
+6) Write a program to search an element using binary search method

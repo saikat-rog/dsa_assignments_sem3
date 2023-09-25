@@ -1,0 +1,2 @@
+Q1. Create a Linked list and display the list
+Q2. Insertion of a node at the beginning of the linked list
