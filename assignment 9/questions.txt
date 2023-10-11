@@ -1,0 +1,3 @@
+1) Write a C program to delete the first node from a double link list
+2) Write a C program to delete the last node from the double linked list
+3) Write a C program to delete the node at given position of a double linked list
