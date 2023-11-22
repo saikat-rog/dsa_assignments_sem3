@@ -1,0 +1,87 @@
+ASS1:--------------------------------------------------------------------------------------------------------------------------------------
+1) Write a program to check whether a number is armstrong or not?(Input given by the user)
+
+2) Write a program (using recursion) to check whether a number is armstrong or not?(Input given by the user)
+
+3) Write a program to print the following sequence of numbers:  0,1,1,2,3,5,8,13,21,34...
+
+4) Twenty five numbers are entered from the keyboard into an array. The number to be searched is entered through the keyboard by the user. Write a program to find if the number to be searched is present in the array and if it is present, display the number of times it appears in the array.
+
+5) Write a program using array in which find maximum and second maximum number. 
+
+6) Write a program to insert the new element in array at given location k
+
+7) Write a program to search the location of a given element in array and after searching delete that element from array.
+
+8) Write a program to multiply any two matrixes.
+
+9) Write a 'C' program to swap the values of two variables by using pointers (call by reference).
+
+10) Write a C program to accept 5 numbers, store them in array and find out the smallest number using pointer.
+
+11) Write a program to check a given string is palicndrome or not (the user should give the string).
+
+12) Write a C program to check whether the entered character is digit or an alphabet.
+
+13) Write a menu-driven program in C to perform the following operations on string using standard library functions.
+
+ASS2::--------------------------------------------------------------------------------------------------------------------------------------
+1) Write a programme to print the sum of the diagonal element of the MxN Square Matrix.
+
+2) There are two arrays A and B. A content 25 elements whereas B contains 30 elements write a function to create an array C that contain only those elements that are common to A and B.
+
+3) Write a menu program for following string operation.
+    - Two strings are equal or not
+    - First string is smaller to second string
+    - First string is greater to second strings
+    - Extract left most n th character
+    - Extract right most n th character
+
+4) Write a program to print employee details using dynamic memory allocation (use structure and malloc)
+
+5) Tighter program to implement linear search
+
+6) Write a program to search an element using binary search method
+
+ASS3::--------------------------------------------------------------------------------------------------------------------------------------
+1) Bubble Sort
+2) insertion Sort
+3) Selection Sort
+
+ASS4::-------------------------------------------------------------------------------------------------------------------------------------- 
+1) Write a program to implement quick sort algorithm
+2) Write a program to implement merge sort algorithm
+
+ASS5::--------------------------------------------------------------------------------------------------------------------------------------
+1) Create a Linked list and display the list
+2) Insertion of a node at the beginning of the linked list
+
+ASS6::--------------------------------------------------------------------------------------------------------------------------------------
+1) Write a C program to add an element at the end of a linked list
+2) Write a C program to inseert element at any random pos of a single linked list
+
+ASS7::--------------------------------------------------------------------------------------------------------------------------------------
+1) Write a C program to delete an element from the beginning of a Linked List
+2) Write a C program to delete an element from the last position of a linked list
+3) Write a C program to delete an element from the any particularly specified position of a linked list
+
+ASS8::--------------------------------------------------------------------------------------------------------------------------------------
+1) WACP To insert a node at the beginning of doubly linked list
+2) WACP To insert a node at any position of doubly linked list
+3) WACP To insert a node at the end of doubly linked list
+
+ASS9::--------------------------------------------------------------------------------------------------------------------------------------
+1) Write a C program to delete the first node from a double link list
+2) Write a C program to delete the last node from the double linked list
+3) Write a C program to delete the node at given position of a double linked list
+
+ASS10::--------------------------------------------------------------------------------------------------------------------------------------
+1) Write a program to show the operations of a circular linked list
+2) Write a program to add two polynomials using linked list
+3) Write a program to show the basic push pop operations in a stack
+4) write a program to implement the Infix to postfix conversion using a stack
+
+ASS11::--------------------------------------------------------------------------------------------------------------------------------------
+1) Write a program to perform insert and delete operations for a queue using function
+2) Write a program for tree traversal in any of Pre-order/In-order/Post-order
+3) Write a program to insert a node into a Binary Search Tree.
