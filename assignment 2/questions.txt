@@ -11,6 +11,6 @@
 
 4) Write a program to print employee details using dynamic memory allocation (use structure and malloc)
 
-5) Tighter program to implement linear search
+5) Write a program to implement linear search
 
 6) Write a program to search an element using binary search method
